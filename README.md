@@ -1,6 +1,6 @@
 # Real-Time Data Pipeline: A Tutorial
 
-This project is a simplified, local, end-to-end real-time data pipeline that simulates the ingestion, processing, and visualization of data. It's inspired by Apache Kafka and is designed to showcase data engineering skills. This tutorial will walk you through the architecture, components, and data flow of the pipeline.
+This project is a simplified, local, end-to-end real-time data pipeline that simulates the ingestion, processing, and visualization of data.
 
 ## High-Level Architecture
 
